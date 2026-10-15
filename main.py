@@ -1,5 +1,5 @@
 """
-Programme qui compte le nombre de mots dans une chaîne de caractère
+Programme qui compte le nombre de mots dans une chaîne de caractères
 Nom: Liam Deehy-Rivest
 Groupe: 123
 """
